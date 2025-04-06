@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spam Detector</string>
+    
+    <!-- Login Activity -->
+    <string name="login_button">Login</string>
+    <string name="features_title">Features</string>
+    <string name="feature_auto_delete">Automatically block and delete spam SMS</string>
+    <string name="feature_reports">Get detailed reports</string>
+    <string name="feature_whitelist">Whitelist numbers</string>
+    
+    <!-- Main Activity -->
+    <string name="spam_detector_title">Spam Detector</string>
+    
+    <!-- Reports Activity -->
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="quarterly">Quarterly</string>
+    <string name="half_yearly">Half-Yearly</string>
+    <string name="yearly">Yearly</string>
+    
+    <!-- Settings Activity -->
+    <string name="settings_title">Settings</string>
+    <string name="whitelist_title">Whitelist Numbers</string>
+    <string name="whitelist_hint">Enter phone number</string>
+    <string name="add_whitelist_button">Add to Whitelist</string>
+    <string name="false_positive_title">Report False Positive</string>
+    <string name="false_positive_hint">Enter message content</string>
+    <string name="report_button">Report</string>
+    
+    <!-- Notifications -->
+    <string name="spam_alert_title">Spam Alert</string>
+    <string name="spam_alert_message">A message from %1$s was flagged as spam and deleted</string>
+    
+    <!-- Permissions -->
+    <string name="sms_permission_rationale">This app needs SMS permissions to detect and delete spam messages</string>
+</resources>
